@@ -4,6 +4,8 @@ Hi 👋 My name is Brickz
 Software Engineer
 -----------------
 
+Let’s connect! Feel free to reach out for collaboration or just to chat about tech!
+
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [remorozabrickz8@gmail.com](mailto:remorozabrickz8@gmail.com)
 
